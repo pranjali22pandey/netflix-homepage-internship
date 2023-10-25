@@ -1,6 +1,6 @@
 # netflix-homepage-internship
 
-Netflix Homepage Clone
+Netflix Homepage Clone link : https://pranjali22pandey.github.io/netflix-homepage-internship/
 
 A faithful recreation of the Netflix homepage using HTML, CSS, and JavaScript. This project is a great way to learn about front-end web development and gain experience with responsive design.
 
